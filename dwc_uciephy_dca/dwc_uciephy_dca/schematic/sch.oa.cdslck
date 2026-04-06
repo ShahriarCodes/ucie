@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      work
 HostName                       work-eda
-ProcessIdentifier              3385
-ProcessCreationTime_UTC        1775190260
-ProcessCreationTime_Readable   Fri Apr  3 12:24:20 2026 CST
+ProcessIdentifier              60230
+ProcessCreationTime_UTC        1775244173
+ProcessCreationTime_Readable   Sat Apr  4 03:22:53 2026 CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/disk/ucie/dwc_uciephy_dca/dwc_uciephy_dca/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Fri Apr  3 12:24:44 2026 CST
+FilePathUsedToEditLock         /home/disk/projects/ucie/dwc_uciephy_dca/dwc_uciephy_dca/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Sun Apr  5 03:59:42 2026 CST

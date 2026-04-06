@@ -1,0 +1,9 @@
+* "hspice" description for "dwc_ucie2phy_lcdl", "lcdl_crsdly_nand_stg_shift_first", "hspice" 
+
+
+simulator lang=hspice
+
+.SUBCKT lcdl_crsdly_nand_stg_shift_first VDD VSS in out_fwd_dly_in out_fwd_tcalin
++  pk_in s s_x
+
+.ENDS lcdl_crsdly_nand_stg_shift_first

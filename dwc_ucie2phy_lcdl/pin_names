@@ -1,0 +1,20 @@
+************lcdl_top*************
+**********left_pins**************
+atpg_se atpg_si dly_sel_crs_even<3:0> dly_sel_crs_odd<3:0> dly_sel_fine<4:0> dti cal_reset cal_clk cal_en dly_update park_even park_odd test_mode cal_mode<2:0> cal_null atpg_mode force_max_delay dly_mux_sel_even<2:0> dly_mux_sel_odd<2:0> byp_in byp_mode dly_in
+
+**********right_pins**************
+dto cal_out atpg_so dly_out
+
+**********top_pins**************
+vdd
+
+**********left_pins**************
+vss
+
+
+************coarse delay chain**********
+se<19:0> se_x<19:0> so<19:0> so_x<19:0> mission_mode tcal_mode tcal_in dly_in s<38:0> tielo tiehi park_even park_odd
+
+out_a out_b
+
+VDD VSS
