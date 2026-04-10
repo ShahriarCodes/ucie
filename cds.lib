@@ -6,3 +6,4 @@ DEFINE dwc_ucie2phy_lcdl /home/disk/projects/ucie/dwc_ucie2phy_lcdl
 DEFINE ts05ncpvlogl06hdl051f /home/disk/projects/ucie/ts05ncpvlogl06hdl051f
 DEFINE ts05ncpllogl06hdl051f /home/disk/projects/ucie/ts05ncpllogl06hdl051f
 DEFINE devicestack /home/disk/projects/ucie/devicestack
+DEFINE widgets /home/disk/projects/ucie/widgets
